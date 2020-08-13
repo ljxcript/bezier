@@ -1,6 +1,6 @@
 # bezier
-bezier curve generating via opengl
 
+__bezier curve generator on opengl__
 
 
 g++ bezier.cpp -lopengl32 -lfreeglut -lglu32
